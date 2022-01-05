@@ -51,6 +51,7 @@ Step-by-Step User Guide by using Source code (Eclipse & VSCode)
 • http://localhost:4200/login
 • http://localhost:4200/registeruser
 • http://localhost:4200/todos
+• There are also Unit Test that should run as JUnit test
 
 
 
